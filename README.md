@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Pareek</h1>
-- 🔭 I’m currently working on **SolarX** and **SolarChain**
+- 🔭 I’m currently working on **SolarX and SolarChain**
 
 
 
